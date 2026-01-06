@@ -1,8 +1,0 @@
-node_modules/
-*.db
-*.db-shm
-*.db-wal
-*.log
-logs/
-.chrome-profile/
-.DS_Store
