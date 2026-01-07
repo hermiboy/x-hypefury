@@ -1,0 +1,12 @@
+{
+  "name": "hypefury-automation-v4",
+  "version": "4.0.0",
+  "description": "HypeFury X automation with simple tweet engagement",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
